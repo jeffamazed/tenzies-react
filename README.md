@@ -1,6 +1,6 @@
 # 🎲 Tenzies React Game
 
-A fun dice game built with React and Vite, inspired by [Bob Ziroll's Tenzies project](https://scrimba.com/learn/learnreact/tenzies-game-co5b3e6e7d6e7e7e7e7e7e7e7). Try to get all dice to show the same number in as few rolls as possible!
+A fun dice game built with React and Vite. Try to get all dice to show the same number in as few rolls as possible!
 
 **Live Demo:**  
 [Play Tenzies Online](https://jeffamazed.github.io/tenzies-react/)
